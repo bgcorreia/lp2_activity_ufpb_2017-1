@@ -7,7 +7,6 @@ DATA: 20/08/2017
 VERSÃO: 0.001
    
 MULTIPLICAÇÃO DE MATRIZES - PARALELO
-
 */
 
 #include <iostream>
